@@ -5,9 +5,10 @@
 
 Skills: Java / Kotlin / Dart / PHP / Android / Flutter
 
-- 🔭 I’m currently working on SEO School Management App 
-- 🌱 I’m currently learning Kotlin 
+- 🔭 I’m currently working on Inventory management system Apps
+- 🌱 I’m currently learning flutter bloc state management and pattern 
 - 📫 How to reach me: masudrana35362@gmail.com 
+- 📱 Call me : +8801720515259
 -    Checkout my portfolio https://masudrana35362.mystrikingly.com/
 
 
